@@ -1,0 +1,47 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.dotnet
+/.librarymanager/libman.config.json
+/.librarymanager
+/.nuget/packages
+/.vscode
+/.gem/specs/rubygems.org%443
+/AppData
+/Documents
+/Downloads
+/Desktop
+/Favorites
+/testproject
+/source/repos
+/Searches
+/Saved Games
+/Pictures
+/Music
+/Links
+/getting-started
+/Contacts
+/3D Objects
+/.templateengine/dotnetcli/v6.0.300
+/.ssh
+/Videos
+/unmonitored.csv
+/RayPhysics.txt
+/POS.pos
+/ntuser.ini
+/NTUSER.DAT{a057f24c-e827-11e8-81c0-0a917f905606}.TMContainer00000000000000000002.regtrans-ms
+/NTUSER.DAT{a057f24c-e827-11e8-81c0-0a917f905606}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{a057f24c-e827-11e8-81c0-0a917f905606}.TM.blf
+/ntuser.dat.LOG2
+/ntuser.dat.LOG1
+/NTUSER.DAT
+/Microsoft.eShopOnWeb.Identity_log.ldf
+/Microsoft.eShopOnWeb.Identity.mdf
+/Microsoft.eShopOnWeb.CatalogDb_log.ldf
+/Microsoft.eShopOnWeb.CatalogDb.mdf
+/LM32.exe
+/caspian.txt
+/.lesshst
+/.gitconfig
+/.bash_history
