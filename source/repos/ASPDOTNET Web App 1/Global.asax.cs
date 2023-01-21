@@ -27,7 +27,7 @@ namespace ASPDOTNET_Web_App_1
                .AddSqlClientInstrumentation()
                .AddOtlpExporter(c =>
                {
-                   c.Endpoint = new Uri("http://ip-172-31-22-215.us-east-2.compute.internal:4317");
+                   c.Endpoint = new Uri("http://172.31.22.215:4317");
                    c.Protocol = OpenTelemetry.Exporter.OtlpExportProtocol.Grpc;
                }
                )
